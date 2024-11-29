@@ -1,0 +1,28 @@
+# Dependency folder
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Testing files
+coverage/
+
+# Environment variables
+.env
+
+# Temporary or cache files
+*.tmp
+*.cache
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Lock files
+package-lock.json
+yarn.lock
